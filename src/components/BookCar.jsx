@@ -10,7 +10,7 @@ import CarMini from "../images/cars-big/mini-box.png";
 
 
 import contractABI from '../ABI/abi.json';
-const contractAddress = "0xb7eBd2183EBBd4959D22e3Bb45a617dB4e19d58E";
+const contractAddress = "0xFBa7AfF846aE4Ef68DB86C5366206D3b2789a883";
 
 
 const provider = new ethers.providers.Web3Provider(window.ethereum);
